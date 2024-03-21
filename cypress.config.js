@@ -8,7 +8,7 @@ module.exports = defineConfig({
  
 },
 env:{
-  URL:'https://hris.peoplehum.com/portal/login?urlencoded=https:%2F%2Fhris.peoplehum.com'
+  URL:'url'
 }
 
 
